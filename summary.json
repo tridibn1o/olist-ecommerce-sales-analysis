@@ -1,0 +1,23 @@
+{
+  "total_orders": 99441,
+  "delivered_orders": 96478,
+  "total_revenue_brl": 13221498.11,
+  "n_categories": 74,
+  "top_category": "health_beauty",
+  "top_category_share_pct": 9.33,
+  "top5_share_pct": 39.83,
+  "top10_share_pct": 62.43,
+  "overall_aov_brl": 137.04,
+  "peak_month": "2017-11",
+  "peak_month_revenue": 987765.37,
+  "peak_month_mom_pct": 52.37,
+  "repeat": {
+    "total_customers": 93358.0,
+    "repeat_customers": 2801.0,
+    "repeat_rate_pct": 3.0
+  },
+  "seller": {
+    "sellers": 2970.0,
+    "top10pct_sellers_revenue_share": 67.11
+  }
+}
